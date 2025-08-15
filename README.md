@@ -1,8 +1,8 @@
 # VueJs Template
 
-## # git cline
+## Clone 
 ```
-yarn install
+git clone 
 ```
 
 ### Compiles and hot-reloads for development
