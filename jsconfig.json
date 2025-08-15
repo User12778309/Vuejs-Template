@@ -1,0 +1,14 @@
+{
+  "vueCompilerOptions": {
+    "plugins": [
+    ]
+  },
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  }
+}
