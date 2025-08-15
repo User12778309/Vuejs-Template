@@ -1,6 +1,6 @@
-# test2
+# VueJs Template
 
-## Project setup
+## # git cline
 ```
 yarn install
 ```
